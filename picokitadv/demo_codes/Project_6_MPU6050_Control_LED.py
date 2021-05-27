@@ -1,4 +1,4 @@
-from machine import Pin, I2C, 
+from machine import Pin, I2C
 from time import sleep
 import mpu6050
 import math
